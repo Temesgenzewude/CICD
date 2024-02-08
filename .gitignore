@@ -1,0 +1,11 @@
+
+doc/
+.pytest_cache
+.idea
+.vscode
+__pycache__
+*.pyc
+*.pyo
+*.pyd
+*.db
+
